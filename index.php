@@ -2,7 +2,7 @@
 <html >
     <head>
         <?php
-        include 'home.php';
+        include 'user.php';
         ?>
         <meta charset="UTF-8">
         <title>Spectre sign up form</title>
