@@ -60,6 +60,14 @@
                         <label for="passwordRepeat">Name Of Company</label>
                         <input class="form-control" type="text" name="companyname" id="companyname" placeholder="XYZ" required />
                     </div>
+                    <div class="form-group">
+                        <label for="passwordRepeat">City</label>
+                        <input class="form-control" type="text" name="city" id="companyname" placeholder="XYZ" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="passwordRepeat">State</label>
+                        <input class="form-control" type="text" name="state" id="companyname" placeholder="XYZ" required />
+                    </div>
                     <div class="m-t-lg">
                         <ul class="list-inline">
                             <li>
